@@ -2,7 +2,7 @@
 
 &nbsp;
 
-<img width="100%" align="right" alt="Github" src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" />
+<img width="100%" height="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" />
 
 &nbsp;
 
