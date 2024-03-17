@@ -14,6 +14,8 @@
 - 📫 Email: main.webexmachina@gmail.com;
 
 <img width="50%" align="right" alt="Github" src="https://maurocaceres.netlify.app/image.jpg" />
+&nbsp;
+&nbsp;
 
 **Lenguajes y Herramientas:**
 
