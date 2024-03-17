@@ -21,7 +21,8 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Dato: Soy Técnico Electrónico;
 - 📫 ¿Cómo contactarme? main.webexmachina@gmail.com;
 
-[![Lenguajes y herramientas que uso](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,express,firebase,git,netlify,vercel,nodejs,sass,tailwind,threejs,vite&perline=5)](https://skillicons.dev)
+**Lenguajes y Herramientos:**
+[![My Skils](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,express,firebase,git,netlify,vercel,nodejs,sass,tailwind,threejs,vite&perline=5)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
