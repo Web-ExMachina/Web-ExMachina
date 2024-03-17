@@ -13,13 +13,13 @@
 - ⚡️ Dato: Soy Técnico Electrónico;
 - 📫 Email: main.webexmachina@gmail.com;
 
+<img width="50%" align="right" alt="Github" src="https://maurocaceres.netlify.app/image.jpg" />
+
 **Lenguajes y Herramientas:**
 
-&nbsp;
 
 [![My Skils](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,express,firebase,git,netlify,vercel,nodejs,sass,tailwind,threejs,vite&perline=5)](https://skillicons.dev)
 
-<img width="30%" align="right" alt="Github" src="https://maurocaceres.netlify.app/image.jpg" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
