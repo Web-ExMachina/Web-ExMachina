@@ -4,7 +4,7 @@
 
 **Sobre mi:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" />
 
 - 👨🏽‍💻 Actualmente estoy trabajando en proyectos MERN Stack;
 - 🌱 También estoy estudiando Typescript y Next.js; 
