@@ -13,7 +13,7 @@
 - ⚡️ Dato: Soy Técnico Electrónico;
 - 📫 Email: main.webexmachina@gmail.com;
 
-**Lenguajes y Herramientos:**
+**Lenguajes y Herramientas:**
 
 &nbsp;
 
