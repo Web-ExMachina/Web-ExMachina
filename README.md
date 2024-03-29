@@ -18,8 +18,7 @@
 <br/>
 <br/>
 Lenguajes y Herramientas:
-<br/>
- &nbsp;
+<br/> &nbsp;
 <a href="https://maurocaceres.netlify.app">
   <img width="50%" align="right" alt="Github" src="https://maurocaceres.netlify.app/image.jpg" />
 </a>
