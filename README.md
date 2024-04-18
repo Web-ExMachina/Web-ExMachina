@@ -4,7 +4,7 @@
 
 <img width="50%" align="right" alt="Github" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" />
 
- &nbsp;
+&nbsp;
  &nbsp;
 - 👨🏽‍💻 Actualmente estoy trabajando en proyectos MERN Stack
 - 🌱 También estoy estudiando Typescript y Next.js
