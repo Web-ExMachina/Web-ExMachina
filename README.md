@@ -1,4 +1,4 @@
-## 🚀 ¡Hola! Soy Mauro, Desarrollador Web en Argentina.
+## 🚀 ¡Hola! Soy Mauro, Desarrollador Web Front-End en Argentina.
 
 **Sobre mi:**
 
