@@ -1,4 +1,4 @@
-<img width="50%" align="right" alt="Github" src="https://studio.youtube.com/channel/UCFF-N6yxHj-omuqKC7wCtcA/editing/images" />
+<img width="50%" align="right" alt="Github" src="https://media.licdn.com/dms/image/D4D16AQHnPzwO70BMPA/profile-displaybackgroundimage-shrink_350_1400/0/1717894449213?e=1723680000&v=beta&t=UgOexru4zStSvrEGOpnVJj2DmGSS2qfUpJzF43HfU7s" />
 ## 🚀 ¡Hola! Soy Mauro, Desarrollador Web Front-End en Argentina.
 
 **Sobre mi:**
