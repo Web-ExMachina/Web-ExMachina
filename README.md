@@ -11,7 +11,7 @@
 - 👯 Busco colaborar en proyectos 🤝
 - 💬 Puedes consultarme por cualquier cosa
 - ⚡️ Dato: Soy Técnico Electrónico
-- 📫 Email: main.webexmachina@gmail.com
+- 📫 Email: webdevmachina@gmail.com
 
 
 <br/>
